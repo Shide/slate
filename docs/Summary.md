@@ -57,3 +57,9 @@
 - [Contributing](general/contributing.md)
 - [Changelog](general/changelog.md)
 - [FAQ](general/faq.md)
+
+## Testing out some features
+- [Resources](test/custom.md)
+  - [Resources](test/arch.md)
+
+
